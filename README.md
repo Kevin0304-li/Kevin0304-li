@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yin (Kevin) Li
+- 👀 I’m interested in LLMs, computer vision, natural language processing
+- 💞️ I’m looking to collaborate on different AI projects
+- 📫 How to reach me: liyin20200613@gmail.com
